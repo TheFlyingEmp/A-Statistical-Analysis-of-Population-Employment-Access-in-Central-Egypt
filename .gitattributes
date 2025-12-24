@@ -1,3 +1,5 @@
+*.shp filter=lfs diff=lfs merge=lfs -text
+*.dbf filter=lfs diff=lfs merge=lfs -text
 /Chroropleth[[:space:]]Shape[[:space:]]Files/Raw/Geofabrik[[:space:]]OSM/roads/gis_osm_roads_free_1.dbf filter=lfs diff=lfs merge=lfs -text
 /Chroropleth[[:space:]]Shape[[:space:]]Files/Raw/Geofabrik[[:space:]]OSM/roads/gis_osm_roads_free_1.shp filter=lfs diff=lfs merge=lfs -text
 /Chroropleth[[:space:]]Shape[[:space:]]Files/Raw/Geofabrik[[:space:]]OSM/roads/gis_osm_roads_free_1.shx filter=lfs diff=lfs merge=lfs -text
